@@ -28,7 +28,10 @@ It was developed as part of the [freeCodeCamp JavaScript Algorithms and Data Str
 
 ## 🚀 Getting Started
 
-To run the project locally:
+You can play the game directly here:  
+👉 [Play on GitHub Pages](https://akhilsingh01.github.io/text-based-rpg/)
+
+### or run the project locally:
 
 1. Clone the repository:
    ```bash
