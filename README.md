@@ -44,6 +44,7 @@ To run the project locally:
 - CSS for styling
 - No frameworks — 100% vanilla code
 
-# 📝 License
+## 📝 License
+
 This project is licensed under the MIT License.
 Original project concept and structure provided by freeCodeCamp.
