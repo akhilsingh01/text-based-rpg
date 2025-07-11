@@ -47,6 +47,12 @@ You can play the game directly here:
 - CSS for styling
 - No frameworks — 100% vanilla code
 
+## 🧑‍💻 Author
+
+**Akhil Singh**   
+🔗 [LinkedIn](https://www.linkedin.com/in/akhilsingh01)  
+🔗 [GitHub](https://github.com/akhilsingh01)
+
 ## 📝 License
 
 This project is licensed under the MIT License.
